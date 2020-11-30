@@ -1,0 +1,6 @@
+{
+    "port": "COM5",
+    "board": "arduino:avr:one",
+    "programmer": "AVRISP mkII",
+    "sketch": "Skraldebot-OS.ino"
+}
